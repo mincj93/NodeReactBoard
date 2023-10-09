@@ -1,0 +1,17 @@
+.header {
+    background-color: grey;
+    text-decoration: none;
+    padding: 0px;
+}
+
+.header_img {
+    width: 300px;
+}
+
+.menu {
+    margin-left: 10px;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: beige;
+}
